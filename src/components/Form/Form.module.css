@@ -41,3 +41,7 @@
   top: 0;
   right: 0;
 }
+
+.error {
+  color: #e30202;
+}
